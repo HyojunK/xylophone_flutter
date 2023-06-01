@@ -1,16 +1,15 @@
-# xylophone_flutter
+# Xylophone App 🎹
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
+* A xylophone application consisting of 7 keys
 
-A new Flutter project.
+<br/>
 
-## Getting Started
+## 📷 Preview
+https://github.com/HyojunK/xylophone_flutter/assets/26563226/b0e005d1-da1b-49c5-ab1f-357df0ef80f7
 
-This project is a starting point for a Flutter application.
+<br/>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 💡 What I've Learned
+* How to explore and use external packages
+* The use of parameters in Dart function
+* Code refactoring using function
